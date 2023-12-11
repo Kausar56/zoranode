@@ -69,6 +69,8 @@ Now Open Putty Apps
 
 
 Enter your ip address and click (Open)
+
+
 ![Alt text](image-10.png)
 
 
