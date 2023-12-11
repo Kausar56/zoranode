@@ -1,7 +1,6 @@
 Zora Node
+![Alt text](image-2.png)
 
-Full deatils :
- https://blokdrops.medium.com/zora-node-will-be-next-celestia-a-tutorials-on-how-to-run-node-e7f4aaa5dacf
 
 
  official news: 
@@ -18,6 +17,8 @@ Full deatils :
 
  price : $22+
 
+ ![Alt text](image-3.png)
+
 
 
  Another link : 
@@ -26,7 +27,7 @@ Full deatils :
 
  payment Accept: crypto / master card 
 
- price : $22+
+ price : $40+
 
 
 
@@ -38,7 +39,37 @@ Full deatils :
 
 Creating Alchemy Account For API :
 
+
 Go to https://www.alchemy.com/ and click on Sign up in the top-right corner.
+
+![Alt text](image-4.png)
+
+Fill your Deatils 
+![Alt text](image-5.png)
+
+Verify your Email and Log in account
+
+now Go Apps 
+![Alt text](image-6.png)
+
+
+Create New apps 
+![Alt text](image-7.png)
+
+
+Fill Deatils 
+
+![Alt text](image-8.png)
+
+
+
+Now Open Putty Apps 
+
+![Alt text](image-9.png)
+
+
+Enter your ip address and click (Open)
+![Alt text](image-10.png)
 
 
 
